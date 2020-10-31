@@ -31,3 +31,7 @@ body{
     text-align: right;
     color: grey
 }
+
+.card{
+    width: 450px;
+}
